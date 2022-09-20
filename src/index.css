@@ -1,0 +1,17 @@
+.cell{
+    width: 60px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin:2px;
+    border-radius: 5px;
+}
+.main{
+    text-align: center;
+}
+.input{
+    margin-bottom: 3px;
+}
+.inputTextbox{
+     margin-left: 2px;
+}
